@@ -56,7 +56,7 @@ const getMovie = async () => {
 <style scoped>
 body {
   background-color: rgba(49, 4, 4, 0.763);
-  height: 200vh;
+  height: 150vh;
 }
 
 #label {
